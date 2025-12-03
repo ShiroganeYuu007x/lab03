@@ -17,3 +17,6 @@ function countCharacter(str, char) {
     // ส่งค่าจำนวนตัวอักษรกลับออกไป
     return count;
 }
+
+console.log(countCharacter("javascript", "a"));
+console.log(countCharacter("hello world", "l"));
